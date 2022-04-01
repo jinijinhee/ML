@@ -1,1 +1,14 @@
-안녕하세요?
+경로지정 : c드라이브에 gitproject 폴더
+cd C:\gitproject
+
+업로드 깃 위치 정하기
+git clone https://github.com/jinijinhee/project1.git
+
+깃 파일 추가하기
+git add document.txt
+
+깃 할당하기
+git commit -m "Add Text File [document.txt]"
+
+깃 발행
+git push
